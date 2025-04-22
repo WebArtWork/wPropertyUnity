@@ -21,13 +21,3 @@ Install these packages via Package Manager:
 
 Enable ARCore:
 `Edit → Project Settings → XR Plug-in Management → Android`
-
----
-
-## How to Run
-
-1. Open the project in Unity
-2. Load `ARScanScene.unity`
-3. Connect your Android device via USB
-4. Go to `File → Build Settings → Android`
-5. Build & Run
